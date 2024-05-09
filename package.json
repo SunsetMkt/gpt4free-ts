@@ -41,7 +41,7 @@
     "@dqbd/tiktoken": "^1.0.7",
     "@elastic/ecs-winston-format": "^1.5.2",
     "@google/generative-ai": "^0.1.1",
-    "@koa/cors": "^4.0.0",
+    "@koa/cors": "^5.0.0",
     "axios": "^1.4.0",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.12",
